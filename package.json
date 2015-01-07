@@ -1,6 +1,6 @@
 {
     "version": "0.0.1",
-    "name": "tstest",
+    "name": "GulpingTypeScript",
     "devDependencies": {
         "gulp": "^3.8.5",
         "gulp-tsc": "^0.9.1",
