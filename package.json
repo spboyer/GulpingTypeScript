@@ -1,0 +1,11 @@
+{
+    "version": "0.0.1",
+    "name": "tstest",
+    "devDependencies": {
+        "gulp": "^3.8.5",
+        "gulp-tsc": "^0.9.1",
+        "run-sequence": "^0.3.6",
+        "del": "~1.1.1",
+        "gulp-watch": "~3.0.0"
+    }
+}
